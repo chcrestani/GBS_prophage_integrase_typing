@@ -10,6 +10,7 @@ This repository hosts a database of **sixteen GBS prophage integrase types** (GB
 | --- | --- | --- | --- |
 | **GBS1** | GBS*Int*1 | *comX* - 3' end | *att*L TTTTTTGTTATAATATAA**GA** <br> *att*R TTTTTTGTTATAATATAA**TA**
 | **GBS2** | GBS*Int*2.1 <br> GBS*Int*2.2 | tRNA methyltransferase - 3' end | ATCCCCTCCTCTCCTTTAAT|
+| **GBS3** | GBS*Int*3 | *rplS* - 3' end | *att*L GATTCC**G**GCAGGGGACAT <br> *att*R GATTCC**A**GCAGGGGACAT|
 
 ![alt text](https://github.com/chcrestani/GBS_prophage_integrase_typing/blob/master/Map-1.png)
 
