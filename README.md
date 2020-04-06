@@ -4,7 +4,7 @@
 ## The method 
 
 This repository hosts a database of **sixteen GBS prophage integrase types** (GBS*Int*1 to GBS*Int*12 and their subtypes) identified among **twelwe insertion sites** (GBS1 to GBS12) (Crestani et al., 2020). BLAST can be used to search for prophage integrase translated amino acid sequences in a query nucleotide sequence or in multifasta files with the command *blastx*. This prophage typing method is quick, reproducible and easily applicable on large datasets of genomes even by people with little computational experience.
-To be considered the same integrase type, the threshold percertage of identitiy (% ID) at the amino acit level has to be >= 95%, and query coverage (QC) also has to be >= 95%.
+To be considered the same integrase type, the threshold **percertage of identitiy (% ID) at the amino acid level** has to be **>= 95%**, and query coverage (QC) also has to be >= 95%.
 
 
 |INSERTION SITE | PHAGE INTEGRASE TYPE | GENE | PUTATIVE ATTACHMENT SITE|
@@ -30,7 +30,7 @@ To be considered the same integrase type, the threshold percertage of identitiy 
 GBS*Int*1
 MIEKYTKKDGTTAYRLRAYLGVDPMTGKQVRTTRQGFKTEREAKRAEVKLIDDFQRQGAWKSNDKTTFDDVAKLWFEQYRNTVKPSTFLVNQNYYKTILKPHLGQLQMTKITVMICQKFVNCLSRYSGYRLYLSLANRIFKFAVNLGIIDNNPMSKTLRSKCTYKNMDTLTKKYYTKEELNAFLRIVEAEETLEMRLIYRLLSYGGFRIGELIALKDTDFDFRNNTISITKTIAYTKEGWAVQSPKTKKSNRTISMDAETMTLAKLYIKQSIKPLHGSFKLFNFASDTVRKRLDRFILKHGLKRITPHGFRHTHASLLFEAGIPAKIAQERLGHAKIAITMDLYTHLSKKSKDNVADKLAELVAI
 
->GBSInt2.1
+GBS*Int*2.1
 MASYRKLDSGWEYRIIYKDINGIRREKSKRGFSTKTLAKAAAVKAEREINSTDTELLDTTFYDYSIQWAEVYKRPHVTAKTWQTYSKNFKHIKHYFGNMKVKDITHTFYQKVLNEFGEIVAQQTLDKFHYQVKGALKSAVRDGIIRYNVADGAIVKSQVAKKSKEEKFLEESDYLNLIEVSKDKIKYASYFTVYLIAVTGLRFAEVQGLTWNDVDFDNGFLDINKSFDYSISQRFAPTKNEQSIRKVPIDLNTIDILKEYKDNYYQPNKLGRICYGASNNATNKAIKLTTGKPYPTNHTLRHTYASYLIMQGVDLISISQLLGHENLNITLKVYAHQLDKLKEKNDKVIKDIFYNL
 
 >GBSInt2.2
