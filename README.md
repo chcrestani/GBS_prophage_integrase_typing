@@ -14,6 +14,10 @@ This repository hosts a database of **sixteen GBS prophage integrase types** (GB
 | **GBS4** | GBS*Int*4 | HU, histone-like <br> DNA-binding protein | CTCTTAAAGACGCTGTTAAATA<br>ATTCGTCTAGAAAAACCTTGTC<br>ATATCAATGTTTATTGATAGCGAC |
 | **GBS5** | GBS*Int*5 | *rpsI* - 3' end | - |
 | **GBS6** | GBS*Int*6.1 <br> GBS*Int*6.2| CatB-related O-acetyltransferase <br> - 5' | TGGAGCCGGTGGGAGT |
+| **GBS7** | GBS*Int*1 | *hylB* - 5' end | *att*L TTTTTTGTTATAATAT**AAGA** <br> *att*R TTTTTTGTTATAATAT**GAGA**|
+| **GBS8** | GBS*Int*8 | YbaB/EbfC family nucleoid-associated protein | TTTTGCATATTCATCATA |
+
+
 
 
 ![alt text](https://github.com/chcrestani/GBS_prophage_integrase_typing/blob/master/Map-1.png)
