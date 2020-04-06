@@ -1,6 +1,9 @@
-# GBS_prophage_integrase_typing
+# GBS prophage integrase typing
 
-This repository hosts a database of known GBS prophage integrase types. BLAST can be used to search for prophage integrase translated amino acid sequences in a query nucleotide sequence or in multifasta files. This prophage typing method is quick, reproducible and easily applicable on large datasets of genomes even by people with little computational experience.
+
+## The method 
+
+This repository hosts a database of **sixteen GBS prophage integrase types** identified among twelwe insertion sites (Crestani et al., 2020). BLAST can be used to search for prophage integrase translated amino acid sequences in a query nucleotide sequence or in multifasta files with the command *blastx*. This prophage typing method is quick, reproducible and easily applicable on large datasets of genomes even by people with little computational experience.
 
 
 ![alt text](https://github.com/chcrestani/GBS_prophage_integrase_typing/blob/master/Map-1.png)
