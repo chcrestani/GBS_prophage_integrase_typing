@@ -5,12 +5,12 @@
 
 This repository hosts a database of **sixteen GBS prophage integrase types** (GBS*Int*1 to GBS*Int*12 and their subtypes) identified among **twelwe insertion sites** (GBS1 to GBS12) (Crestani et al., 2020). BLAST can be used to search for prophage integrase translated amino acid sequences in a query nucleotide sequence or in multifasta files with the command *blastx*. This prophage typing method is quick, reproducible and easily applicable on large datasets of genomes even by people with little computational experience.
 
-<center>
+
 |INSERTION SITE | PHAGE INTEGRASE TYPE | GENE | PUTATIVE ATTACHMENT SITE|
 | --- | --- | --- | --- |
 | GBS1 | GBS*Int*1 | *comX* - 3' end | *att*L TTTTTTGTTATAATATAA**GA** <br> *att*R TTTTTTGTTATAATATAA**TA**
 | --- | --- | --- | --- |
-</center>
+
 
 ![alt text](https://github.com/chcrestani/GBS_prophage_integrase_typing/blob/master/Map-1.png)
 
