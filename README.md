@@ -3,6 +3,10 @@
 This repository hosts a database of known GBS prophage integrase types. BLAST can be used to search for prophage integrase translated amino acid sequences in a query nucleotide sequence or in multifasta files. This prophage typing method is quick, reproducible and easily applicable on large datasets of genomes even by people with little computational experience.
 
 
+![alt text](https://github.com/chcrestani/GBS_prophage_integrase_typing/blob/master/Map.pdf)
+
+
+
 >GBSInt1
 MIEKYTKKDGTTAYRLRAYLGVDPMTGKQVRTTRQGFKTEREAKRAEVKLIDDFQRQGAWKSNDKTTFDDVAKLWFEQYRNTVKPSTFLVNQNYYKTILKPHLGQLQMTKITVMICQKFVNCLSRYSGYRLYLSLANRIFKFAVNLGIIDNNPMSKTLRSKCTYKNMDTLTKKYYTKEELNAFLRIVEAEETLEMRLIYRLLSYGGFRIGELIALKDTDFDFRNNTISITKTIAYTKEGWAVQSPKTKKSNRTISMDAETMTLAKLYIKQSIKPLHGSFKLFNFASDTVRKRLDRFILKHGLKRITPHGFRHTHASLLFEAGIPAKIAQERLGHAKIAITMDLYTHLSKKSKDNVADKLAELVAI
 
