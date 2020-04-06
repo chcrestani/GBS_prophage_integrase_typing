@@ -7,8 +7,8 @@ This repository hosts a database of **sixteen GBS prophage integrase types** (GB
 
 |INSERTION SITE | PHAGE INTEGRASE TYPE | PHAGE INTEGRASE LENGTH (AA) | GENE | PUTATIVE ATTACHMENT SITE|
 | --- | --- | --- | --- | --- |
-
-
+| GBS1 | GBS*Int*1 | 369 | *comX* - 3' end | *att*L TTTTTTGTTATAATATAA**GA** *att*R TTTTTTGTTATAATATAA**TA**
+| --- | --- | --- | --- | --- |
 
 ![alt text](https://github.com/chcrestani/GBS_prophage_integrase_typing/blob/master/Map-1.png)
 
