@@ -6,7 +6,7 @@
 This repository hosts a database of **sixteen GBS prophage integrase types** (GBS*Int*1 to GBS*Int*12 and some subtypes) identified among **twelwe insertion sites** (GBS1 to GBS12) (Crestani et al., 2020). To be registered as the same integrase type, the threshold **percertage of identitiy (% ID) at the amino acid level** was set at **>= 95%**, and query coverage (QC) was >= 95%.
 
 
-## Application for prophage detection adn typing
+## Application for prophage detection and typing
 
 BLAST can be used to search for prophage integrase translated amino acid sequences (query) on a database of nucleotide sequences (this can be a multifasta file) with the command *tblastn*. A percertage of identitiy (% ID) and query coverage (QC) of >= 95% is required. 
 
