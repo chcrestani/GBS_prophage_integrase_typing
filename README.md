@@ -1,10 +1,16 @@
 # GBS prophage integrase typing
 
 
-## The method 
+## Devlopment of the typing method
 
-This repository hosts a database of **sixteen GBS prophage integrase types** (GBS*Int*1 to GBS*Int*12 and their subtypes) identified among **twelwe insertion sites** (GBS1 to GBS12) (Crestani et al., 2020). BLAST can be used to search for prophage integrase translated amino acid sequences in a query nucleotide sequence or in multifasta files with the command *blastx*. This prophage typing method is quick, reproducible and easily applicable on large datasets of genomes even by people with little computational experience.
-To be considered the same integrase type, the threshold **percertage of identitiy (% ID) at the amino acid level** has to be **>= 95%**, and query coverage (QC) also has to be >= 95%.
+This repository hosts a database of **sixteen GBS prophage integrase types** (GBS*Int*1 to GBS*Int*12 and some subtypes) identified among **twelwe insertion sites** (GBS1 to GBS12) (Crestani et al., 2020). To be registered as the same integrase type, the threshold **percertage of identitiy (% ID) at the amino acid level** was set at **>= 95%**, and query coverage (QC) was >= 95%.
+
+
+## Application for prophage detection adn typing
+
+BLAST can be used to search for prophage integrase translated amino acid sequences (query) on a database of nucleotide sequences (this can be a multifasta file) with the command *tblastn*. A percertage of identitiy (% ID) and query coverage (QC) of >= 95% is required. 
+
+This prophage detection method has been developed for the rapid identification of prophages on large genome datasets. It is highly reproducible and easily applicable even by people with little computational experience. A limitation of the methos is the fact that the identification of a certain integrase type in a genome does not necessarily guarantee the integrity of the phage, nor it gives infomation regarding the diversity of of the full prophage sequences. If an in-depth sutdy of the diversity of full-prophages sequences in a dataset is the aim, other tools (such as PHASTER or PhageMiner) can be used to this end.
 
 
 |INSERTION SITE | PHAGE INTEGRASE TYPE | GENE | PUTATIVE ATTACHMENT SITE|
