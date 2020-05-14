@@ -28,7 +28,7 @@ This prophage detection method has been developed for the rapid identification o
 | **GBS11** | GBS*Int*11.1 <br> GBS*Int*11.2 <br> GBS*Int*11.3 | *comGB* - 3' end |  CTTTTAGAATGTTTGGTA |
 | **GBS12** | GBS*Int*12 | 5-formyltetrahydrofolate cyclo-ligase  - 5' end | - |
 
-![alt text](https://github.com/chcrestani/GBS_prophage_integrase_typing/blob/master/Map-1.png)
+![alt text](https://github.com/chcrestani/GBS_prophage_integrase_typing/blob/master/Map-1.pdf)
 
 
 ## Integrase gene types
