@@ -3,12 +3,12 @@
 
 ## Development of the typing method
 
-This repository hosts a database of **sixteen Group B *Streptococcus*** (*Streptococcus agalactiae*) **prophage integrase types** (GBS*Int*1 to GBS*Int*12 and some subtypes) identified among **twelve insertion sites** (GBS1 to GBS12) (Crestani et al., 2020). To be registered as the same integrase type, the threshold **percentage of identity (% ID) at the amino acid level** was set at **>= 95%**, and query coverage (QC) was >= 95%.
+This repository hosts a database of **sixteen Group B *Streptococcus*** (*Streptococcus agalactiae*) **prophage integrase types** (GBS*Int*1 to GBS*Int*12 and some subtypes) identified among **twelve insertion sites** (GBS1 to GBS12) (Crestani et al., 2020). To be registered as the same integrase type, the threshold **percentage of identity (% ID) at the amino acid level** was set at **>= 90%**, and query coverage (QC) was >= 95%.
 
 
 ## Application for prophage detection and typing
 
-BLAST can be used to search for prophage integrase translated amino acid sequences (query) on a database of nucleotide sequences (this can be a multifasta file) with the command *tblastn*. A percentage of identity (% ID) and query coverage (QC) of >= 95% is required. 
+BLAST can be used to search for prophage integrase translated amino acid sequences (query) on a database of nucleotide sequences (this can be a multifasta file) with the command *tblastn*. A percentage of identity (% ID) of >= 90% and query coverage (QC) of >= 95% is required. 
 
 This prophage detection method has been developed for the rapid identification of prophages on large genome datasets. It is highly reproducible and easily applicable even by people with little computational experience. A limitation of the method is the fact that the identification of a certain integrase type in a genome does not necessarily guarantee the integrity of the phage, nor it gives information regarding the diversity of the full prophage sequences. If an in-depth study of the diversity of full-prophages sequences in a dataset is the aim, other tools (such as PHASTER or PhageMiner) can be used to this end.
 
