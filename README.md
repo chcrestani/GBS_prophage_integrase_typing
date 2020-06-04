@@ -23,9 +23,9 @@ This prophage detection method has been developed for the rapid identification o
 | **GBS6** | GBS*Int*6.1 <br> GBS*Int*6.2| CatB-related O-acetyltransferase - 5' end| TGGAGCCGGTGGGAGT |
 | **GBS7** | GBS*Int*1 | *hylB* - 5' end | *att*L TTTTTTGTTATAATAT**AAGA** <br> *att*R TTTTTTGTTATAATAT**GAGA**|
 | **GBS8** | GBS*Int*8 | YbaB/EbfC family nucleoid-associated protein | TTTTGCATATTCATCATA |
-| **GBS9** | GBS*Int*9.1 <br> GBS*Int*9.2 | Sodium/proton antiporter - 3' end | AAGGCGGTAGACGGATTTGAA |
+| **GBS9** | GBS*Int*9.1 <br> GBS*Int*9.2 | *nhaK* (sodium/proton antiporter) - 3' end | AAGGCGGTAGACGGATTTGAA |
 | **GBS10** | GBS*Int*10 | DNA-binding protein WhiA - 3' end | - |
-| **GBS11** | GBS*Int*11.1 <br> GBS*Int*11.2 <br> GBS*Int*11.3 | *comGB* - 3' end |  CTTTTAGAATGTTTGGTA |
+| **GBS11** | GBS*Int*11.1 <br> GBS*Int*11.2 <br> GBS*Int*11.3 | *gspF* - 3' end |  CTTTTAGAATGTTTGGTA |
 | **GBS12** | GBS*Int*12 | 5-formyltetrahydrofolate cyclo-ligase  - 5' end | - |
 
 ![alt text](https://github.com/chcrestani/GBS_prophage_integrase_typing/blob/master/Map-1.png)
