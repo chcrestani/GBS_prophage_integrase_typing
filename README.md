@@ -5,6 +5,9 @@
 
 This repository hosts a database of **sixteen Group B *Streptococcus*** (*Streptococcus agalactiae*) **prophage integrase types** (GBS*Int*1 to GBS*Int*12 and some subtypes) identified among **twelve insertion sites** (GBS1 to GBS12) (Crestani et al., 2020). To be registered as the same integrase type, the threshold **percentage of identity (% ID) at the amino acid level** was set at **>= 90%**, and query coverage (QC) was >= 95%.
 
+## Citation
+
+Crestani C, Forde TL, Zadoks RN. Development and application of a prophage integrase typing scheme for group B *Streptococcus*. Frontiers in Microbiology. 2020 Aug 31;11:1993.
 
 ## Application for prophage detection and typing
 
@@ -85,6 +88,4 @@ MYIEELDDGKYKFIERYIDPLTGKKKRTSVTLDRKTKQAENKARSILQNRISKKINNVTKVELTYGELRQEYLKQWLPTV
 MKYTKTKYPNIYFYETAKGKRYYVRRSFFFQGKKKEITKSGLSTIPQARAALTEIERQINEQELGINTQLTVDQYWEIFSAKRLSTGRWHESSYYLYDSMYRNHIKDEFGFVKLKNLDRNGYEVFIAEKLKKHTRHTVHTINSSFMAILNDAVKNGNLAGNRLKGVYIGESAIPANNKKITLEQFKEWMDKAKEIMPKKFYALTYMTIFGLRRGEVFGLRPMDVTKNEHGRAVLKLKDSRSNRTLNGKGSLKTKDSERYVCLDDVGTDYIDYLIDEADRIKRSLGIIKEQKKDYLSINEKGLLINPNQMNKHFGLVSEAIGIHVTPHMMRHFFTTQSIIAGVPMEQLSQALGHTKIYMTDRYNQVEDELAEATTDMFLTRIR
 
 
-## Citation
 
-Crestani C, Forde TL, Zadoks RN. Development and application of a prophage integrase typing scheme for group B *Streptococcus*. Frontiers in Microbiology. 2020 Aug 31;11:1993.
